@@ -1,32 +1,26 @@
-# Hi, I'm Constantin Renato Irina 👋
+# Ciao, sono Constantin Renato Irina 👋
 
-I'm a 21-year-old aspiring Full-Stack Web Developer who discovered GitHub through the intensive Boolean Full-Stack Web Developer course. My repository currently showcases all the projects I've developed during the course, but I'm excited to continue adding more personal projects as I grow in my career.
-
-## Technologies & Interests 🚀
-Some technologies I'm passionate about and enjoy working with include:
-- **HTML, CSS, JavaScript**: The core of web development.
-- **ReactJS**: Building dynamic and responsive user interfaces.
-- **Node.js & Express.js**: Creating powerful backend applications.
-- **MongoDB**: Working with non-relational databases.
-
-## My Journey 🛤️
-- 🌱 I’m constantly learning and honing my skills in web development.
-- 🛠️ Currently working on expanding my portfolio with more advanced projects.
-- 🚀 Open to collaborating on interesting and challenging projects.
-
-## Find me around the web 🌍
-- 📝 Sharing my thoughts and experiences on [LinkedIn](https://www.linkedin.com/in/constantin-renato-irina/).
-- 💻 Exploring code snippets and experiments on [Codepen](https://codepen.io/renatoirina).
-- 🎓 Learning and growing through online courses and tutorials.
-
-<code><img height="20" alt="html5" src="https://raw.githubusercontent.com/github/explore/8a749b7c88b0d654b8f3b404e7960e6e05124302/topics/html5/html5.png"></code>
-<code><img height="20" alt="css3" src="https://raw.githubusercontent.com/github/explore/8a749b7c88b0d654b8f3b404e7960e6e05124302/topics/css3/css3.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/cb9a94bfa16b0985fbd5ff5bb015cbf99fedadf8/topics/php/php.png"></code>
-<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/8a749b7c88b0d654b8f3b404e7960e6e05124302/topics/sql/sql.png"></code>
-<code><img height="20" alt="laravel" src="https://raw.githubusercontent.com/github/explore/cb9a94bfa16b0985fbd5ff5bb015cbf99fedadf8/topics/laravel/laravel.png"></code>
-<code><img height="20" alt="vuejs" src="https://raw.githubusercontent.com/github/explore/01ea2a586e5da744792d0ccfce2f68b861f29301/topics/vue/vue.png"></code>
+Sono un aspirante sviluppatore web Full-Stack di 21 anni che ha scoperto GitHub grazie al corso intensivo di sviluppatore web Full-Stack di Boolean. Il mio repository attualmente mostra tutti i progetti che ho sviluppato durante il corso, ma sono entusiasta di continuare ad aggiungere più progetti personali man mano che cresco nella mia carriera.
 
 
-| <a href="https://github.com/renatoirina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=renatoirina&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Constantin's github stats" /></a> | <a href="https://github.com/renatoirina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoirina&layout=compact&theme=buefy&hide_border=true" /></a> |
+## Tecnologie e Interessi 🚀
+Alcune tecnologie che mi appassionano e con cui mi piace lavorare includono:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+
+- **HTML, CSS, JavaScript**: Il cuore dello sviluppo web.
+- **VueJS & Vite**: Costruire interfacce utente dinamiche e reattive.
+- **Laravel**: Creare potenti applicazioni backend.
+- **Bootstrap**: Sviluppare interfacce utente responsive.
+- **MySQL e MariaDB**: Lavorare con database relazionali.
+
+
+## Trovarmi sul web 🌍
+- 📝 Condivido i miei pensieri e le mie esperienze su LinkedIn.
+- 💻 Esploro frammenti di codice ed esperimenti su Codepen.
+- 🎓 Imparo e cresco attraverso corsi e tutorial online.
+
+
+## 📊 GitHub Stats
+| <a href="https://github.com/renatoirina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=renatoirina&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Statistiche GitHub di Constantin" /></a> | <a href="https://github.com/renatoirina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoirina&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
