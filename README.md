@@ -19,8 +19,8 @@ Some technologies I'm passionate about and enjoy working with include:
 - 💻 Exploring code snippets and experiments on [Codepen](https://codepen.io/renatoirina).
 - 🎓 Learning and growing through online courses and tutorials.
 
-<code><img height="20" alt="html5" src="https://raw.githubusercontent.com/github/explore/8a749b7c88b0d654b8f3b404e7960e6e05124302/topics/html/html.png"></code>
-<code><img height="20" alt="css3" src="https://raw.githubusercontent.com/github/explore/8a749b7c88b0d654b8f3b404e7960e6e05124302/topics/css/css.png"></code>
+<code><img height="20" alt="html5" src="https://raw.githubusercontent.com/github/explore/8a749b7c88b0d654b8f3b404e7960e6e05124302/topics/html5/html5.png"></code>
+<code><img height="20" alt="css3" src="https://raw.githubusercontent.com/github/explore/8a749b7c88b0d654b8f3b404e7960e6e05124302/topics/css3/css3.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/cb9a94bfa16b0985fbd5ff5bb015cbf99fedadf8/topics/php/php.png"></code>
 <code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/8a749b7c88b0d654b8f3b404e7960e6e05124302/topics/sql/sql.png"></code>
