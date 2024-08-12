@@ -15,7 +15,7 @@ Some technologies I'm passionate about and enjoy working with include:
 - 🚀 Open to collaborating on interesting and challenging projects.
 
 ## Find me around the web 🌍
-- 📝 Sharing my thoughts and experiences on [LinkedIn][([https://www.linkedin.com/in/constantin-renato-irina/])].
+- 📝 Sharing my thoughts and experiences on [LinkedIn](https://www.linkedin.com/in/constantin-renato-irina/).
 - 💻 Exploring code snippets and experiments on [Codepen](https://codepen.io/renatoirina).
 - 🎓 Learning and growing through online courses and tutorials.
 
