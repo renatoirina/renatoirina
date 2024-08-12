@@ -22,5 +22,5 @@ Alcune tecnologie che mi appassionano e con cui mi piace lavorare includono:
 
 
 ## 📊 GitHub Stats
-| <a href="https://github.com/renatoirina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=renatoirina&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Statistiche GitHub di Constantin" /></a> | <a href="https://github.com/renatoirina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoirina&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/renatoirina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=renatoirina&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Statistiche GitHub di Constantin" /></a> | <a href="https://github.com/renatoirina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoirina&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
