@@ -67,7 +67,7 @@ Esercizi e progetti full-stack in Vue, Laravel e MySQL: li tengo pubblici perch�
 
 - 💼 [LinkedIn](AGGIUNGI-LINK)
 - 💎 [CodePen](AGGIUNGI-LINK)
-- 📧 AGGIUNGI-EMAIL
+- 📧 IRINARENATO793@GMAIL.COM
 
 ---
 
