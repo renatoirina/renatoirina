@@ -1,77 +1,84 @@
-# Ciao, sono Constantin Renato Irina 👋
+# Hi, I'm Constantin Renato Irina 👋
 
-Sviluppatore **SAP HCM / ABAP** in un gruppo multinazionale: interfacce payroll, infotype custom e integrazioni con il portale dipendenti. Sono arrivato al codice dal corso intensivo Full-Stack di **Boolean**, e il web non l'ho mollato: continuo a costruirci side project.
+**SAP HCM / ABAP developer** at a multinational group: payroll interfaces, custom infotypes and employee-portal integrations. I got into code through **Boolean**'s intensive full-stack bootcamp, and I never dropped the web side — I still build side projects with it.
 
-📍 Roma, Italia
+I'm not a one-language developer: **ABAP** at work, **TypeScript** on my own projects, and **Python**, **Java** and **C / C++** as the foundation everything else sits on.
+
+📍 Rome, Italy
 
 ---
 
-## Cosa faccio
+## What I do
 
-**Al lavoro — SAP HCM / ABAP**
-- Interfacce payroll in uscita per più paesi (IT, ES, PT, FR, ZA), con error handling e notifiche automatiche
-- Infotype custom, dashboard HR con logica di approvazione/rifiuto, flussi portale ↔ SAP-HCM
-- Debug e root-cause analysis su sistemi in produzione
-- ABAP OO: tipi e tabelle dinamiche (RTTS), ALV con `CL_SALV_TABLE`, parsing XLSX/CSV, invio mail via BCS, job e varianti
+**At work — SAP HCM / ABAP**
+- Outbound payroll interfaces for multiple countries (IT, ES, PT, FR, ZA), with error handling and automated notifications
+- Custom infotypes, HR dashboards with approval/rejection logic, portal ↔ SAP-HCM flows
+- Debugging and root-cause analysis on production systems
+- Object-oriented ABAP: runtime type creation (RTTS), ALV with `CL_SALV_TABLE`, XLSX/CSV parsing, BCS email, background jobs
 
-**Nei progetti personali — web**
-- App Next.js + TypeScript con Postgres, autenticazione e row-level security
-- Sincronizzazione offline-first e realtime tra dispositivi
-- Test automatici come parte del lavoro, non come extra
+**On my own projects — web**
+- Next.js + TypeScript apps on Postgres with auth and row-level security
+- Offline-first and realtime sync across devices
+- Automated tests as part of the work, not an afterthought
+
+**Beyond the web — general-purpose languages**
+- **Python** for scripting, automation and data wrangling
+- **Java** for object-oriented work: classes, inheritance, collections, exception handling
+- **C / C++** for the fundamentals that keep paying off: pointers and memory management, data structures, algorithmic complexity
 
 ---
 
 ## Stack
 
-**SAP / ERP** — ABAP · ABAP OO · SAP HCM (PA / OM / Payroll) · SAP Query · SQL · Debugger · trasporti e ChaRM
+**Languages** — ABAP · JavaScript · TypeScript · Python · Java · C · C++ · PHP · SQL
 
-**Web** — HTML · CSS · JavaScript · TypeScript · Vue 3 + Vite · React · Next.js · Laravel · Bootstrap · Node.js
+**SAP / ERP** — ABAP OO · SAP HCM (PA / OM / Payroll) · SAP Query · Debugger · transports & ChaRM
 
-**Database** — MySQL · MariaDB · PostgreSQL / Supabase
+**Web** — HTML · CSS · Vue 3 + Vite · React · Next.js · Node.js · Laravel · Bootstrap
 
-**Strumenti** — Git & GitHub (workflow a PR) · Jira · Vercel · Notion per la documentazione tecnica
+**Databases** — MySQL · MariaDB · PostgreSQL / Supabase
+
+**Tooling** — Git & GitHub (PR workflow) · Jira · Vercel · Notion for technical documentation
 
 ---
 
-## Progetti in evidenza
+## Selected projects
 
-### 🚢 Cruise Companion — pianificatore di viaggio offline-first
+### 🚢 Cruise Companion — offline-first trip planner
 *Next.js 14 · TypeScript · Supabase · Leaflet*
 
-App per due persone pensata per un vincolo reale: pianificare una giornata a terra **quasi senza segnale**.
-- Comanda lo stato locale, il database insegue: ogni modifica si vede subito, entra in coda e parte dopo 600 ms
-- Coda con **fusione delle operazioni**: crea+cancella non arriva mai al database, modifica+modifica collassa in una
-- Sincronizzazione realtime tra dispositivi, con le scritture locali in attesa protette dalla sovrascrittura
-- **13 tabelle con row-level security**, provate davvero su Postgres 16: un estraneo legge 0 righe
-- **114 test**, incluso il montaggio di tutte le 11 schermate in entrambi i formati
-- Regola imposta dai test: *una stima non deve mai sembrare un dato certo* — quello che non si sa resta `TBC`, non si inventa
+A two-person planner built around a real constraint: planning a day ashore **with almost no signal**.
+- Local state is the source of truth, the database follows: edits show instantly, are queued and flushed after 600 ms
+- Write queue with **operation merging**: create+delete never reaches the DB, edit+edit collapses into one
+- Realtime sync between devices, with pending local writes protected from overwrites
+- **13 tables with row-level security**, tested for real on Postgres 16: outsiders read 0 rows
+- **114 tests**, including mounting all 11 screens in both layouts
+- A rule enforced by tests: *an estimate must never look like a certainty* — unknowns stay `TBC`, never invented
 
-### 📊 Comparatore file generico (ABAP)
-Confronta due file XLSX/CSV/TXT **senza tracciato predefinito**: strutture e tabelle interne costruite a runtime, XLSX letto nativamente con `CL_ABAP_ZIP` + iXML (nessun OLE, nessun Excel sul frontend, nessuna libreria esterna), differenze mostrate in ALV.
+### 📊 Generic file comparator (ABAP)
+Compares two XLSX/CSV/TXT files with **no predefined layout**: structures and internal tables built at runtime, XLSX parsed natively with `CL_ABAP_ZIP` + iXML (no OLE, no frontend Excel, no external library), differences shown in ALV.
 
-### 🎓 Progetti del corso Boolean
-Esercizi e progetti full-stack in Vue, Laravel e MySQL: li tengo pubblici perché mostrano da dove sono partito.
-
----
-
-## Come lavoro
-
-- **Prima riprodurre, poi diagnosticare.** Un'ipotesi non verificata non è una causa — e lo dico, quando resta un'ipotesi.
-- **Documentare il perché, non solo il cosa.** Ogni progetto ha la sua pagina di scelte tecniche.
-- **Modifiche piccole e revisionabili**, con changelog espliciti.
-- **Se un valore può cambiare, diventa un parametro** in un punto solo.
+### 🎓 Boolean bootcamp projects
+Full-stack exercises in Vue, Laravel and MySQL — kept public because they show where I started.
 
 ---
 
-## Dove trovarmi
+## How I work
 
-- 💼 [LinkedIn](AGGIUNGI-LINK)
-- 💎 [CodePen](AGGIUNGI-LINK)
-- 📧 IRINARENATO793@GMAIL.COM
+- **Reproduce first, diagnose second.** An unverified hypothesis isn't a root cause — and I say so when it stays one.
+- **Document the why**, not just the what.
+- **Small, reviewable changes** with explicit changelogs.
+- **If a value can change, it becomes a parameter** in one place only.
+
+---
+
+## Find me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/constantin-renato-irina/)
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=renatoirina&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Statistiche GitHub" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoirina&layout=compact&theme=transparent&hide_border=true" alt="Linguaggi più usati" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=renatoirina&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoirina&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
