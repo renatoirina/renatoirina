@@ -80,5 +80,5 @@ Full-stack exercises in Vue, Laravel and MySQL — kept public because they show
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=renatoirina&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatoirina&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
+<img src="./profile/stats.svg" alt="GitHub stats" height="165" />
+<img src="./profile/top-langs.svg" alt="Top languages" height="165" />
