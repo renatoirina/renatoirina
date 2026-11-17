@@ -96,7 +96,7 @@ Full-stack exercises in Vue, Laravel and MySQL — kept public because they show
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=renatoirina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=renatoirina&theme=tokyonight" alt="GitHub stats" />
 <img height="170" src="https://streak-stats.demolab.com?user=renatoirina&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
 
 </div>
